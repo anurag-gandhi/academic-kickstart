@@ -1,74 +1,48 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+role: Co-Founder, SurveySights
+avatar_filename: 97489789-d152-4420-bee1-6f7b13a5392a.jpeg
+bio: My research interests include impact evaluation, primary data collection,
+  and statistics
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Research
+  - Education Policy
+  - Developement Economics
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/payalsoneja
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/payalsoneja
+  - link: https://www.linkedin.com/in/payal-soneja/
+    icon_pack: fab
+    icon: linkedin
+organizations:
+  - name: SurveySights
+    url: https://surveysights.com/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: MA in Economics and Public Policy
+      institution: Toulouse School of Economics
+      year: 2016
+    - course: BA in Economics
+      institution: Amity University
+      year: 2013
+superuser: true
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
+highlight_name: false
+title: Payal Soneja
+email: payal@surveysights.com
 ---
+Payal has witnessed the power of data to be transformative and empowering for the most vulnerable in society. Having worked in the development sector for ~3 years and through significant research and implementation experience, she’s developed a profound appreciation for data-driven insights to inform development policy.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Most recently, she has worked with the University of Chicago and led impact evaluations on topics at the intersection of environment and development where she managed field operations and implementation strategy. Her expertise includes blending academic research with the feasibility of on-the-ground programs and specialisation in survey design and evaluation methods.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+At SurveySights, her work entails developing best practices to improve data quality and survey workflows, co-lead projects, and co-coordinate client development efforts. She brings in extensive experience with primary data collection, quantitative skills, and community engagement.
+
+She holds a Masters in Economics from Toulouse School of Economics with a concentration in Public Policy and Development. In her spare time, she enjoys photography, listening to podcasts, nerd-ing out about RCTs and AI, and is happy to help with all things DATA.
