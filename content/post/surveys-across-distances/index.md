@@ -9,7 +9,7 @@ authors:
 image:
   filename: screenshot-1-768x477.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 COVID-19 has not only restricted travel and social interaction but has also led to an unprecedented break in the research and data collection activities. Projects have come to a halt leaving researchers and data collectors perplexed. In light of this, SurveySights is conducting a survey with the field community in India across multiple states and sectors in both urban and non-urban areas. The two main objectives were:
 + To understand the full range of experiences and impacts on their livelihoods and well-being.
