@@ -1,6 +1,6 @@
 ---
 role: Co-Founder, SurveySights
-avatar_filename: 97489789-d152-4420-bee1-6f7b13a5392a.jpeg
+avatar_filename: avatar.jpeg
 bio: My research interests include impact evaluation, primary data collection,
   and statistics
 interests:
