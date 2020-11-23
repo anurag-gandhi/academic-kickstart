@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "stata"
-  icon_pack = ""
+  icon_pack = "custom"
   name = "STATA"
   description = "10%"
 
