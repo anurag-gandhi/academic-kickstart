@@ -24,13 +24,19 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "80%"  
   
 [[feature]]
   icon = "stata"
   icon_pack = "custom"
   name = "STATA"
-  description = "10%"
+  description = "100%"
+
+[[feature]]
+  icon = "poll"
+  icon_pack = "fas"
+  name = "Impact Evaluation"
+  description = "100%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
