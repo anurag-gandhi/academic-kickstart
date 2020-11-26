@@ -1,0 +1,18 @@
+# Theme metadata
+name = "surveysights"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#34A853"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#286136"
+menu_text_active = "#34A853"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
