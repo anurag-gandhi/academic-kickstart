@@ -26,11 +26,11 @@ subtitle = ""
   name = "Statistics"
   description = "80%"  
   
-[[feature]]
-  icon = "Stata_Logo"
-  icon_pack = "custom"
-  name = "STATA"
-  description = "100%"
+# [[feature]]
+#  icon = "Stata_Logo"
+#  icon_pack = "custom"
+#  name = "STATA"
+#  description = "100%"
 
 [[feature]]
   icon = "poll"
