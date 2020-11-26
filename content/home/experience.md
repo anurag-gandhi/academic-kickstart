@@ -18,27 +18,36 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Co-Founder"
+  company = "SurveySights Research & Development, Delhi"
+  company_url = "surveysights.com"
+  location = "Delhi"
+  date_start = "2020-04-01"
   date_end = ""
-  description = """
+  description = """SurveySights specializes in field research by applying sector-agnostic expertise to facilitate data collection and management on the ground, and render solutions to critical challenges within the development sector.-
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Lead initiatives and growth strategy
+  * Strategic Planning
+  * Content Creation
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Manager"
+  company = "Tata Centre for Development at University of Chicago"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Delhi"
+  date_start = "2019-01-01"
+  date_end = "2020-05-01"
+  description = """Led the implementation of a randomized controlled trial that examines the long-term effects of air pollution on the formation of human capital: Experimental Evidence from Delhi schools."""
+
+[[experience]]
+  title = "Research Associate"
+  company = "Urban Energy and Environment Lab, University of Chicago"
+  company_url = ""
+  location = "Delhi"
+  date_start = "2018-10-01"
+  date_end = "2019-12-31"
+  description = """Led the implementation of a randomized controlled trial that examines the long-term effects of air pollution on the formation of human capital: Experimental Evidence from Delhi schools."""
 
 +++
