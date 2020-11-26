@@ -25,7 +25,7 @@ organizations:
     url: https://surveysights.com/
 education:
   courses:
-    - course: MA in Economics and Public Policy
+    - course: MSc in Economics and Public Policy
       institution: Toulouse School of Economics
       year: 2016
     - course: BA in Economics
